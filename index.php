@@ -15,5 +15,4 @@ require("cp/includes/config.php");
 require("cp/includes/init.php");
 $dirthemes=$dirsito."/themes/".$sito['template'];
 require("themes/".$sito['template']."/index.php");
-#TEST
 ?>
